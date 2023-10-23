@@ -1,4 +1,4 @@
-# react-projects-restaurant-menu
+# Restaurant Menu
 <br>
 The website displays the menu of a restaurant.
 <br>
